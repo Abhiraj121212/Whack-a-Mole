@@ -3,3 +3,4 @@
  Implemented animations for a smooth and engaging player experience with mole positions and appearances controlled through Javascript event handling.
 "# Whack-a-Mole" 
 "# Whack-a-Mole" 
+"# Whack-a-Mole" 
