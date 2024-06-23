@@ -12,7 +12,7 @@ function setGame(){
        tile.addEventListener("click",selectTile);
        document.getElementById("board").appendChild(tile);
     }
-    setInterval(setMole,3000);
+    setInterval(setMole,1000);
     setInterval(setPlant,2000);
 }
 function getRandomTile(){

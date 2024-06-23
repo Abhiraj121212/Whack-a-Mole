@@ -2,6 +2,7 @@ body {
     font-family: Arial, helvetica, sans-serif;
     text-align:center;
     background:url("/Images/mario-bg.jpg");
+    background-size:cover;
 }
 #board {
     width:540px;
